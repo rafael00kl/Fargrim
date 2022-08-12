@@ -1,0 +1,2 @@
+# Fargrim
+debug log Minecraft
